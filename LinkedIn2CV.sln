@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedIn2CV", "LinkedIn2CV\LinkedIn2CV.csproj", "{1DDF6C0D-C34D-4574-A9EA-C80D3C3F0C36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{71274CD0-4DB8-4F07-92E7-255A1BC290D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DDF6C0D-C34D-4574-A9EA-C80D3C3F0C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDF6C0D-C34D-4574-A9EA-C80D3C3F0C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDF6C0D-C34D-4574-A9EA-C80D3C3F0C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDF6C0D-C34D-4574-A9EA-C80D3C3F0C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
