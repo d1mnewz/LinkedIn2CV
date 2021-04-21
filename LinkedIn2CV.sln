@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7577E375-2BD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5730A261-8B3E-45C6-B693-FD06ADD772FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedIn2Cv.Tests.Unit", "tests\LinkedIn2Cv.Tests.Unit\LinkedIn2Cv.Tests.Unit.csproj", "{11948961-B25A-43AA-972F-154F84C9F68E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,8 +24,13 @@ Global
 		{1DDF6C0D-C34D-4574-A9EA-C80D3C3F0C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DDF6C0D-C34D-4574-A9EA-C80D3C3F0C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DDF6C0D-C34D-4574-A9EA-C80D3C3F0C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11948961-B25A-43AA-972F-154F84C9F68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11948961-B25A-43AA-972F-154F84C9F68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11948961-B25A-43AA-972F-154F84C9F68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11948961-B25A-43AA-972F-154F84C9F68E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1DDF6C0D-C34D-4574-A9EA-C80D3C3F0C36} = {7577E375-2BD7-44B2-94CC-94AF690119B1}
+		{11948961-B25A-43AA-972F-154F84C9F68E} = {5730A261-8B3E-45C6-B693-FD06ADD772FA}
 	EndGlobalSection
 EndGlobal
