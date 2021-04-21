@@ -1,4 +1,6 @@
-# LinkedIn2CV - Converts LinkedIn profile into PDF CV
+# LinkedIn2CV 
+
+Automatically converts your LinkedIn profile into PDF CV overnight. Make the changes to your LinkedIn profile and it will get reflected in PDF so you only need to keep LinkedIn profile in sync! 
 
 ## LinkedIn
 
