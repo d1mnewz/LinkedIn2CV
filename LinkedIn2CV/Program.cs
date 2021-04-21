@@ -1,12 +1,14 @@
-﻿using System;
-
-namespace LinkedIn2CV
+﻿namespace LinkedIn2CV
 {
-    class Program
+    internal static class Program
     {
-        static void Main()
+        private static void Main()
         {
-            Console.WriteLine("Hello World!");
+            // Get profile from API
+            // Load HTML template
+            // Put data into HTML template
+            // Convert HTML into PDF
+            // Upload that to GitHub
         }
     }
 }
